@@ -17,7 +17,7 @@ It presents evidence of my relevant skills and abilities.
 Below you can see the languages , tools I used and some links of my Profile.
 
 ## Images 📷
-![Image of About](images/about1.png)
+![Image of About](images/about1.PNG)
 
 ![Image of Education](images/education1.png)
 
