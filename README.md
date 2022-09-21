@@ -2,9 +2,9 @@
 
 This is my **Personal Profile**.
 
-![Image of Home](assets/images/profile.png)
+![Image of Home](images/profile.png)
 
-I'm Rashindi Paulusha Wijesinghe and I am passionate software engineer based in Sri Lanka.
+I'm Nusly Nizam and I am passionate software engineer based in Sri Lanka.
 This is a professional documentation that provides proof of my accomplishments of my work.
 
 # *Importance* 📝
@@ -17,30 +17,30 @@ It presents evidence of my relevant skills and abilities.
 Below you can see the languages , tools I used and some links of my Profile.
 
 ## Images 📷
-![Image of About](assets/images/about1.png)
+![Image of About](images/about1.png)
 
-![Image of Education](assets/images/education1.png)
+![Image of Education](images/education1.png)
 
-![Image of Skills](assets/images/skills1.png)
+![Image of Skills](images/skills1.png)
 
-![Image of Experience](assets/images/experience1.png)
+![Image of Experience](images/experience1.png)
 
-![Image of Projects](assets/images/project1.png)
+![Image of Projects](images/project1.png)
 
-![Image of Contact](assets/images/contact1.png)
+![Image of Contact](images/contact1.png)
 
 
 
 ## Languages 📗
 
-<p align="center"><img src="assets/logo/css__2_-removebg-preview.png" alt="css" width="150" height="150"/>
-   <img src="assets/logo/html%20(2).png" alt="html" width="150" height="150"/></p>
+<p align="center"><img src="logo/css__2_-removebg-preview.png" alt="css" width="150" height="150"/>
+   <img src="logo/html%20(2).png" alt="html" width="150" height="150"/></p>
 
 ## Tools 📌
 
 <p align="center">
-<img src="assets/logo/IntelliJ_IDEA_Icon.svg-removebg-preview.png" alt="intellij" width="150" height="150"/>
-<img src="assets/logo/figma-removebg-preview.png" alt="figma" width="150" height="150"/></p>
+<img src="logo/IntelliJ_IDEA_Icon.svg-removebg-preview.png" alt="intellij" width="150" height="150"/>
+<img src="logo/figma-removebg-preview.png" alt="figma" width="150" height="150"/></p>
 
 ## Links 🔎
 
