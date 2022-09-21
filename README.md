@@ -19,15 +19,15 @@ Below you can see the languages , tools I used and some links of my Profile.
 ## Images 📷
 ![Image of About](images/about1.PNG)
 
-![Image of Education](images/education1.png)
+![Image of Education](images/education1.PNG)
 
-![Image of Skills](images/skills1.png)
+![Image of Skills](images/skills1.PNG)
 
-![Image of Experience](images/experience1.png)
+![Image of Experience](images/experience1.PNG)
 
 ![Image of Projects](images/project1.png)
 
-![Image of Contact](images/contact1.png)
+![Image of Contact](images/contact1.PNG)
 
 
 
